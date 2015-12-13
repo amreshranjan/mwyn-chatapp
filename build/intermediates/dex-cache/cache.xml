@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Amresh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="E:\AndroidApp\MWYN_Chat\app\build\intermediates\pre-dexed\debug\gson-2.5-881ebb3b32c0417e0be182cfe619e00fe9a92fea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Amresh\.gradle\caches\modules-2\files-2.1\org.immutables\gson\2.1.4\9ad7166417dfd284f25698cb846dca77925738d4\gson-2.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ad7166417dfd284f25698cb846dca77925738d4">
+        <dex dex="E:\AndroidApp\MWYN_Chat\app\build\intermediates\pre-dexed\debug\gson-2.1.4-f83e43a1ff95d9e2fb6311a22338137da60e0fc6.jar" />
+    </item>
+
+</items>
