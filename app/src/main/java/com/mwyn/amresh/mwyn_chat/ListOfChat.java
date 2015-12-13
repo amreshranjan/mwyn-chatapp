@@ -2,6 +2,7 @@ package com.mwyn.amresh.mwyn_chat;
 
 /**
  * Created by Amresh on 12/13/2015.
+ * Class for all the chat objects.
  */
 public class ListOfChat {
 

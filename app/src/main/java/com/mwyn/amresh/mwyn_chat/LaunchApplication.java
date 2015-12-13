@@ -13,6 +13,8 @@ import android.widget.Toast;
 
 /**
  * Created by Amresh on 12/13/2015.
+ * This class is used for storing the number from users for one time means this will appear
+ * only once during installing application.
  */
 public class LaunchApplication extends Activity {
     SharedPreferences sharedPreferences;

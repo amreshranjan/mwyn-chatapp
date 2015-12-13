@@ -1,13 +1,11 @@
 package com.mwyn.amresh.mwyn_chat;
-
-        import android.content.Context;
-        import android.view.LayoutInflater;
-        import android.view.View;
-        import android.view.ViewGroup;
-        import android.widget.BaseAdapter;
-        import android.widget.TextView;
-
-        import java.util.List;
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.TextView;
+import java.util.List;
 
 
 public class ChatListAdapter extends BaseAdapter
@@ -18,7 +16,6 @@ public class ChatListAdapter extends BaseAdapter
     {
         this.chatList=chatList;
         this.context=context;
-
     }
 
     @Override
