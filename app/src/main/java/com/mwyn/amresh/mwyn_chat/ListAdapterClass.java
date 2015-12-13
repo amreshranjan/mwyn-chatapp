@@ -12,6 +12,7 @@ import java.util.List;
 
 /**
  * Created by Amresh on 12/11/2015.
+ * This Class used as a adapder for filling all the contact list on activity.
  */
 public class ListAdapterClass extends BaseAdapter {
 

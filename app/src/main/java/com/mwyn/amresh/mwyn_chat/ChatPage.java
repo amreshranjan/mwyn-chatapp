@@ -63,11 +63,10 @@ public class ChatPage extends AppCompatActivity {
         if (selfNumber.length()==10) {
             selfNumber = "+91"+selfNumber;
         }
-        /*Append name and Contact number in Actionbar as a title*/
-        getSupportActionBar().setTitle(getIntent().getStringExtra("name") + (getIntent().getStringExtra("number")));
+        /*Append contact name in Actionbar as a title*/
+        getSupportActionBar().setTitle(getIntent().getStringExtra("name"));
         messegeText = (EditText) findViewById(R.id.messageText);
         btnSend = (Button) findViewById(R.id.sendMessageButton);
-
         mChatListAdapter = new ChatListAdapter(list, this);
         lvHistory.setAdapter(mChatListAdapter);
 

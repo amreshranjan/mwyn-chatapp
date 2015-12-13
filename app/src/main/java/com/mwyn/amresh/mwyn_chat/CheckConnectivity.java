@@ -5,6 +5,7 @@ import android.net.NetworkInfo;
 
 /**
  * Created by Amresh on 12/13/2015.
+ * This Class is Used for checking the internet connection in mobile.
  */
 public class CheckConnectivity {
 

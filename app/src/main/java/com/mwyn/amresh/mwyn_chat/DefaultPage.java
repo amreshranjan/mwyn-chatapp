@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 /**
  * Created by Amresh on 12/12/2015.
+ * This class is used for showing the first activity as an appearance image for application
  */
 public class DefaultPage extends Activity {
     @Override

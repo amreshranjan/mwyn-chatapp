@@ -30,6 +30,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Created by Amresh on 12/11/2015.
  * This class is used for binding all the contact list in list using custom adapter.
  */
 
